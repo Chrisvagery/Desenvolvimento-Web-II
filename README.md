@@ -1,4 +1,5 @@
 # Desenvolvimento-Web-II
+
 Este trabalho consistiu na criação de uma aplicação web simples para gerenciar uma lista de tarefas. A aplicação permite ao usuário adicionar novas tarefas, marcá-las como concluídas e excluí-las conforme necessário. Também usando localStorage para armazenar os dados localmente.
 
 A arquitetura escolhida para este projeto é a arquitetura monolítica. Nesta arquitetura, todos os componentes da aplicação estão contidos em um único pacote de software e são desenvolvidos, testados e implantados como uma única unidade. 
