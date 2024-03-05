@@ -5,6 +5,7 @@ Este projeto de lista de contatos foi desenvolvido como uma aplicação de exemp
  A motivação por trás deste projeto é fornecer uma compreensão clara e prática de como aplicar o padrão de arquitetura MVC em um contexto de desenvolvimento web. O padrão MVC é amplamente utilizado na indústria de software devido à sua capacidade de separar os dados, a lógica de apresentação e a lógica de controle em componentes distintos, resultando em um código mais modular, escalável e fácil de manter.
 
 Funcionalidades
+
 Adição de contatos com validação de campos (nome, telefone e email).
 Remoção de contatos da lista.
 Armazenamento local dos contatos utilizando o Local Storage do navegador.
